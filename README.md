@@ -4,5 +4,5 @@ Este repositorio contiene el análisis de datos sobre el rendimiento de aproxima
 
 ## Contenido del Repositorio
 
-- `Código Python.ipynb`: Script de Python que contiene todo el código utilizado para la limpieza, exploración, y visualización de datos. También incluye la creación de métricas y nuevas variables junto a insights destacados.
+- `Código Python.ipynb`: Script de Python que contiene todo el código utilizado para la limpieza, exploración, y visualización de datos. También incluye la creación de métricas y variables junto a insights destacados.
 - `DIA_exam_restaurants_data_list.xlsx`: Archivo Excel con los datos crudos de los restaurantes. 
